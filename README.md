@@ -33,7 +33,7 @@ Watch the full demo of the project here:
 **Image/Audio Processing:** NumPy, SciPy, OpenCV, scikit-image  
 **Encryption:** PyCrypto  
 **Visualization:** Matplotlib  
-**Request Handling:** Werkzeug  
+**Request Handling:** Flask  
 
 ---
 
