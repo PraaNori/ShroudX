@@ -72,7 +72,7 @@ Their insights played a key role in shaping the direction and quality of **Shrou
 | **Jandhyam Sai Sriya** | Text-in-Image Module, UI Development |
 | **Jyothsna Vadlamudi** | Text-in-Image Module |
 | **Vivekananda Mudelli** | Image-in-Image Module |
-| **Pradeepika Nori** | Text-in-Text Module (4 different algorithms, UI and Testing |
+| **Pradeepika Nori** | Text-in-Text Module (4 different algorithms), UI & Testing |
 
 ---
 
